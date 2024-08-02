@@ -33,11 +33,44 @@ Our goal is to identify key features that correlate with ride fares and build a 
 
 ## Getting Started
 
+Click [here](https://github.com/Gagan-K916/Uber-Fare_Price_Prediction-System/blob/main/Uber%20-%20Fare%20Price%20Prediction%20System.ipynb) to view the notebook.
+
+OR
+
 To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Gagan-K916/Uber-Fare_Price_Prediction-System.git
+2. **Navigate to the project directory:**
+   ```bash
+   cd Uber-Fare_Price_Prediction-System
+3. **Install the dependencies using pip**
+   ```bash
+   pip install -r requirements.txt
+4. **Run the jupyter notebook:**
+   ```bash
+   jupyter notebook
 
+## Phases
 
+- Data Wrangling
+- Dealing with Null Values
+- Data Preprocessing
+- Dealing with Outliers and Anomalies
 
+## Data Viz - Insights
+
+- ![image](https://github.com/user-attachments/assets/c7733338-50bd-4693-b54b-b03c5a673674)
+- ![image](https://github.com/user-attachments/assets/cbfb110d-a536-441e-a0d1-bd28f11482be)
+
+## Algorithms Used:
+
+- Simple Linear Regression
+- Decision Tree Regression
+- Random Forest Regression
+- Gradient Boost Regression
+
+## Model Performance
+
+![image](https://github.com/user-attachments/assets/bdb55035-42ad-4c8e-a56e-7cb114cca3a3)
